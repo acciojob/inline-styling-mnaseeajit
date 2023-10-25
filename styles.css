@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.main{
+	display : flex;
+/* 	align-items : center; */
+	background-color : yellow;
+/* 	justify-content : center; */
+}
+#f1 , #f2 {
+	display : flex;
+	align-items : center;
+	justify-content : center;
+}
