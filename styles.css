@@ -1,9 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	display : flex;
+	background-color : yellow;
+	align-items : center;
+	justify-content : center;
+}
 .main{
 	display : flex;
-/* 	align-items : center; */
-	background-color : yellow;
-/* 	justify-content : center; */
+	align-items : center;
+	justify-content : center;
 }
 #f1 , #f2 {
 	display : flex;
